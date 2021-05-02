@@ -4,7 +4,6 @@ Test mkdocs openshift
 ```
 md mkdocs-test
 cd .\mkdocs-test\
-mkdocs news .
 mkdocs new .
 mkdocs serve
 mkdocs build
